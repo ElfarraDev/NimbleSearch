@@ -1,3 +1,5 @@
+<img src="assets/logo-nimble.svg" alt="NimbleSearch Logo" width="200"/>
+
 # NimbleSearch
 
 NimbleSearch is a lightweight, flexible search index for small to medium-sized datasets. It uses TF-IDF and cosine similarity for text fields and exact matching for keyword fields, providing a balance between performance and simplicity.
